@@ -6,4 +6,4 @@ Here You will learn Python, Data Handling, File Handling, JSON, Python Libraries
 Data Visualizations, Data Analysis and AI Algorithms to make Breast Cancer Detection.
 
 # Other Useful Links:
-LinkedIn - https://www.linkedin.com/in/varshitha-yenduru-7988901ab/
+LinkedIn - https://www.linkedin.com/in/varshitha-yenduru-7988901ab
